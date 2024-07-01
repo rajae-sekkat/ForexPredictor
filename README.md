@@ -6,11 +6,6 @@ This project aims to predict currency exchange rates using deep learning models 
 
 1. [Overview](#overview)
 2. [Installation](#installation)
-3. [Usage](#usage)
-4. [Models](#models)
-5. [Evaluation](#evaluation)
-6. [Contributing](#contributing)
-7. [License](#license)
 
 ## Overview
 
